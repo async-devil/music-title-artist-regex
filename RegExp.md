@@ -1,0 +1,4 @@
+- title and artist are separeted by ' - ' addition information allowed // Example: John Coltrane - Giant Steps (2020 Remaster)
+  - ^.* - .*$
+  - ^.*(?= - )
+  - (?<= - ).*$
