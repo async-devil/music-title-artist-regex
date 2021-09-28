@@ -6,12 +6,12 @@ RegExps are stored using this structure:
 
 - information about RegExp // comment which won't be displayed
   - match RegExp
-  - title RegExp
   - artist RegExp
+  - title RegExp
 
 - other RegExp
   - match RegExp
-  - title RegExp
   - artist RegExp
+  - title RegExp
 
 **Mostly all of RegExps are using only video title, but if not RegExp will be pointed.**
